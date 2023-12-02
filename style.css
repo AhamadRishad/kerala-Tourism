@@ -1,4 +1,7 @@
 
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,400;0,500;0,600;0,800;1,400;1,500&display=swap');
+
+
 
 .home-bg-color  {
     background: linear-gradient(-45deg, #52eead, #4ae73c, #23a6d5, #23d5ab);
@@ -163,5 +166,16 @@ input[type="tel"] {
   transform: rotate(250deg);
   transition-duration: 1.5s;
 }
+
+
+.district{
+  font-family: 'Roboto Condensed ', sans-serif;
+  font-weight:700;
+  padding-bottom: 1em;
+}
+
+
+
+
 
 
