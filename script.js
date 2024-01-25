@@ -27,5 +27,6 @@ btn.addEventListener('click',(e)=>{
     message.classList.add('alert-success')
     message.innerText = "success";
     message.style.display = 'block';
+    window.location.href = "./index.html";
   }
 })
